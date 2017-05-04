@@ -5,7 +5,7 @@ import socket
 
 @app.route('/')
 def hello_world():
-    return 'Hello, World!'
+    return 'Hello, drie!'
 
 if __name__ == "__main__":
     try:
